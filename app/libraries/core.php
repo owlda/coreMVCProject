@@ -3,7 +3,7 @@
 /*
  * APP Core
  * URL
- * Controller
+ * Parse
  */
 
 class Core{

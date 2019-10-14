@@ -1,6 +1,6 @@
 <?php
 
-require_once '../app/libraries/core.php';
+require_once '../app/bootstrap.php';
 $core = new Core();
 
 ?>
@@ -12,7 +12,7 @@ $core = new Core();
     <link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
-
+<p>this is a home page</p>
 </body>
 </html>
 
